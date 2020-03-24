@@ -1,7 +1,7 @@
 # PictureWhisper
 First try to code an UWP app (for my graduation design)
 
-# What's about
+# Introduction
 UWP as Client, ASP.NET Core Web Api to provide data
 
 SQL Server to save record, SQLite to save app settings
